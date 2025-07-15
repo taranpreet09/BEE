@@ -1,0 +1,15 @@
+{
+  "name": "@taranpreet09/naothing-package",
+  "version": "1.0.0",
+  "description": "this package does naothing ",
+  "license": "ISC",
+  "author": "Taran",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "hit"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
