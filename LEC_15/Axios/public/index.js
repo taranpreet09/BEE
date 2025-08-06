@@ -25,10 +25,10 @@ async function addBlog(URL, title, description) {
 
     }
 let response=await axios.post(URL, newBlog)
-console.log
+console.log(response.data);
 
     } catch (error)
 {
-    console.error("Error adding blog");
+    console.error("error");
 }   
     }
